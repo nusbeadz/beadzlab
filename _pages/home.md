@@ -20,6 +20,7 @@ Our lab focuses on advancing automation and digitalization in the built environm
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -37,7 +38,10 @@ Our lab focuses on advancing automation and digitalization in the built environm
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/robotic_arm.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/35th_kkhtcnn.jpeg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/group_photo.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/35th_kkhtcnn.jpeg" alt="Slide 6" />
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

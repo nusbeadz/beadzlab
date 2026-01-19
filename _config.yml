@@ -29,6 +29,10 @@ incremental: false
 
 
 
+plugins:
+  - jekyll-sitemap
+
+
 # Markdown Processing
 kramdown:
   input: GFM
