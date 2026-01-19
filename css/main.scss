@@ -23,6 +23,17 @@ figcaption {
 
 /* Top navigation bar */
 
+@media (max-width: 767px) {
+  .navbar-brand {
+    height: auto;
+    line-height: 1.2;
+    white-space: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: calc(100% - 60px);
+  }
+}
+
 
 p.byline {
 	text-align: center;
@@ -90,4 +101,3 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
-
