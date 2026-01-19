@@ -2,9 +2,7 @@ name: Update publist and deploy
 
 on:
   schedule:
-    - cron: "0 3 1 * *"
-  push:
-    branches: ["gh-pages"]
+    - cron: "0 19 1 * *"
   workflow_dispatch:
 
 permissions:
@@ -27,10 +25,8 @@ jobs:
       - name: Install deps
         run: pip install requests
       - name: Run script
-        if: github.event_name != 'push'
         run: python scripts/get_pub.py
       - name: Commit and push if changed
-        if: github.event_name != 'push'
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
