@@ -1,0 +1,548 @@
+- title: "Audio-Based Excavator Preoperational Checks Using Few-Shot Deep Learning"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Liang, H. and Foo, Z.L. and Koh, Y.Z. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/JCEMD4.COENG-17031"
+    display: "Journal of Construction Engineering and Management (2026)"
+  highlight: 0
+
+- title: "Automated engineering analysis of crack mechanisms on building fa\u00e7ades using UAVs"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Y. and Chua, D.K.H. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.jobe.2025.112176"
+    display: "Journal of Building Engineering (2025)"
+  highlight: 0
+
+- title: "Benefits of construction robots for on-site lean construction: a comparison and evaluation framework"
+  image: "dummy.png"
+  description: ""
+  authors: "Hu, R. and Mao, J. and Chae, S. and Yeoh, J.K.-W."
+  link:
+    url: "https://doi.org/10.1108/ECAM-02-2025-0325"
+    display: "Engineering Construction and Architectural Management (2025)"
+  highlight: 0
+
+- title: "Fine-tuning a large language model for automated code compliance of building regulations"
+  image: "dummy.png"
+  description: ""
+  authors: "Shi, J.W.L. and Solihin, W. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.aei.2025.103676"
+    display: "Advanced Engineering Informatics (2025)"
+  highlight: 0
+
+- title: "IMPLICATIONS OF CONSTRUCTION ROBOTS FOR ON-SITE LEAN CONSTRUCTION: AN INDEPTH CASE STUDY"
+  image: "dummy.png"
+  description: ""
+  authors: "Hu, R. and Mao, J. and Chae, S. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.24928/2025/0207"
+    display: "Annual Conference of the International Group for Lean Construction Iglc (2025)"
+  highlight: 0
+
+- title: "Neural Network-Based Estimation of Rebar Deflection for Robotic Rebar Installation of Vertical Structures"
+  image: "dummy.png"
+  description: ""
+  authors: "Cai, H. and Hu, R. and Quek, S.T. and Chae, S. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.22260/ISARC2025/0005"
+    display: "Proceedings of the International Symposium on Automation and Robotics in Construction (2025)"
+  highlight: 0
+
+- title: "Progress-Driven Waypoint Planning for UGV-based progress data collection and reality capture"
+  image: "dummy.png"
+  description: ""
+  authors: "Liang, H. and Chua, D.K.H. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.eswa.2025.127512"
+    display: "Expert Systems with Applications (2025)"
+  highlight: 0
+
+- title: "Robust vision-based sub-pixel level displacement measurement using a complementary strategy"
+  image: "dummy.png"
+  description: ""
+  authors: "Weng, Y. and Quek, S.-T. and Ker-Wei Yeoh, J."
+  link:
+    url: "https://doi.org/10.1016/j.ymssp.2024.111898"
+    display: "Mechanical Systems and Signal Processing (2025)"
+  highlight: 0
+
+- title: "Two-Stage Framework Using Extended Phase-Based Optical Flow and Reduced-Order Modal Expansion for Efficient Full-Field Modal Identification from Video Data"
+  image: "dummy.png"
+  description: ""
+  authors: "Weng, Y. and Quek, S.T. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.2139/ssrn.5385732"
+    display: "Ssrn (2025)"
+  highlight: 0
+
+- title: "Acoustic Signal-Based Excavator Fault Detection Using Deep Learning Method"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Lin, F.Z. and Zhi, K.Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.22260/ISARC2024/0147"
+    display: "Proceedings of the International Symposium on Automation and Robotics in Construction (2024)"
+  highlight: 0
+
+- title: "Automated Basement Car Park Design: Impact of Design Factors on Static Capacity"
+  image: "dummy.png"
+  description: ""
+  authors: "Jamaludin, M.H.B. and Zhou, Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/JAEIED.AEENG-1609"
+    display: "Journal of Architectural Engineering (2024)"
+  highlight: 0
+
+- title: "Automated filtering of fa\u00e7ade defect images using a similarity method for enhanced inspection documentation"
+  image: "dummy.png"
+  description: ""
+  authors: "Liang, H. and Weng, Y. and Tang, S.W.Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1080/09613218.2023.2282567"
+    display: "Building Research and Information (2024)"
+  highlight: 0
+
+- title: "Automatic geometric quality assessment of railings for code compliance with LiDAR data"
+  image: "dummy.png"
+  description: ""
+  authors: "Zheng, Q. and Zhou, M. and Yeoh, J.K.W. and Wang, Q."
+  link:
+    url: "https://doi.org/10.1016/j.measurement.2024.115321"
+    display: "Measurement: Journal of the International Measurement Confederation (2024)"
+  highlight: 0
+
+- title: "Deep Learning Method to Detect and Locate Signages from 2D Drawings for Semantic Enrichment of BIM"
+  image: "dummy.png"
+  description: ""
+  authors: "Duan, T. and Nguyen, T.Q. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/9780784485231.064"
+    display: "Computing in Civil Engineering 2023: Visualization, Information Modeling, and Simulation - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2023 (2024)"
+  highlight: 0
+
+- title: "Detection, tracking, and segmentation of transient construction objects in video frames"
+  image: "dummy.png"
+  description: ""
+  authors: "Liang, H. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/9780784485224.037"
+    display: "Computing in Civil Engineering 2023: Data, Sensing, and Analytics - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2023 (2024)"
+  highlight: 0
+
+- title: "Indoor WiFi path loss model to estimate indoor network coverage considering residential design"
+  image: "dummy.png"
+  description: ""
+  authors: "Teo, S.L.E. and Zhou, Y. and Yeoh, J.K.-W."
+  link:
+    url: "https://doi.org/10.1108/SASBE-05-2023-0131"
+    display: "Smart and Sustainable Built Environment (2024)"
+  highlight: 0
+
+- title: "Large scale indoor occupant tracking using distributed acoustic sensing and machine learning"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Yeoh, J.K.W. and Li, Y.E. and Solihin, W."
+  link:
+    url: "https://doi.org/10.1016/j.buildenv.2023.111005"
+    display: "Building and Environment (2024)"
+  highlight: 0
+
+- title: "Material augmented semantic segmentation of point clouds for building elements"
+  image: "dummy.png"
+  description: ""
+  authors: "Liang, H. and Yeoh, J.K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1111/mice.13198"
+    display: "Computer-Aided Civil and Infrastructure Engineering (2024)"
+  highlight: 0
+
+- title: "Premapping of Dynamic Indoor Construction Sites Using Prior Construction Progress Video to Enhance UGV Path Planning"
+  image: "dummy.png"
+  description: ""
+  authors: "Liang, H. and Yeoh, J.K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1061/JCCEE5.CPENG-5819"
+    display: "Journal of Computing in Civil Engineering (2024)"
+  highlight: 0
+
+- title: "Robust Alignment of UGV Perspectives with BIM for Inspection in Indoor Environments"
+  image: "dummy.png"
+  description: ""
+  authors: "Liang, H. and Yeoh, J.K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1061/JCCEE5.CPENG-5761"
+    display: "Journal of Computing in Civil Engineering (2024)"
+  highlight: 0
+
+- title: "Robust Vision-Based Sub-Pixel Level Displacement Measurement Using a Complementary Strategy"
+  image: "dummy.png"
+  description: ""
+  authors: "Weng, Y. and Quek, S.-T. and Yeoh, J.K.-W."
+  link:
+    url: "https://doi.org/10.2139/ssrn.4766246"
+    display: "SSRN (2024)"
+  highlight: 0
+
+- title: "Studying the impact of building morphology on occupants\u2019 movement using a rule mining approach"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Yeoh, J.K.W. and Solihin, W."
+  link:
+    url: "https://doi.org/10.1016/j.buildenv.2023.111116"
+    display: "Building and Environment (2024)"
+  highlight: 0
+
+- title: "The relationship between occupants movement and building morphology before and during COVID-19 Pandemic"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/9780784485224.016"
+    display: "Computing in Civil Engineering 2023: Data, Sensing, and Analytics - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2023 (2024)"
+  highlight: 0
+
+- title: "Automatic pixel-level detection of vertical cracks in asphalt pavement based on GPR investigation and improved mask R-CNN"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Z. and Yeoh, J.K.W. and Gu, X. and Dong, Q. and Chen, Y. and Wu, W. and Wang, L. and Wang, D."
+  link:
+    url: "https://doi.org/10.1016/j.autcon.2022.104689"
+    display: "Automation in Construction (2023)"
+  highlight: 0
+
+- title: "Enhancing dam safety evaluation using dam digital twins"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhu, X. and Bao, T. and Yeoh, J.K.W. and Jia, N. and Li, H."
+  link:
+    url: "https://doi.org/10.1080/15732479.2021.1991387"
+    display: "Structure and Infrastructure Engineering (2023)"
+  highlight: 0
+
+- title: "Facilitating Knowledge Transfer during Code Compliance Checking Using Conceptual Graphs"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Solihin, W. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/JCCEE5.CPENG-4884"
+    display: "Journal of Computing in Civil Engineering (2023)"
+  highlight: 0
+
+- title: "Impacts of Building Morphology on Occupants\u2019 Movement: Data-Driven Research During Pandemic"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Yeoh, J.K.W. and Solihin, W."
+  link:
+    url: "https://doi.org/10.2139/ssrn.4484124"
+    display: "SSRN (2023)"
+  highlight: 0
+
+- title: "Predicting Percent Plan Complete through Time Series Analysis"
+  image: "dummy.png"
+  description: ""
+  authors: "Nguyen, T.Q. and Yeoh, J.K.-W. and Angelia, N."
+  link:
+    url: "https://doi.org/10.1061/JCEMD4.COENG-12867"
+    display: "Journal of Construction Engineering and Management (2023)"
+  highlight: 0
+
+- title: "Quantified Productivity Evaluation of Autonomous Excavation Systems using a Simulation Approach"
+  image: "dummy.png"
+  description: ""
+  authors: "Bai, X. and Li, B. and Koh, Y.Z. and Chae, S. and Meera, C.S. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.22260/ISARC2023/0021"
+    display: "Proceedings of the International Symposium on Automation and Robotics in Construction (2023)"
+  highlight: 0
+
+- title: "Semantic localization on BIM-generated maps using a 3D LiDAR sensor"
+  image: "dummy.png"
+  description: ""
+  authors: "Yin, H. and Lin, Z. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.autcon.2022.104641"
+    display: "Automation in Construction (2023)"
+  highlight: 0
+
+- title: "A personalized Human Factors Analysis and Classification System (HFACS) for construction safety managementbased on context-aware technology"
+  image: "dummy.png"
+  description: ""
+  authors: "Tang, N. and Hu, H. and Xu, F. and Yeoh, J.K.W. and Chua, D.K.H. and Hu, Z."
+  link:
+    url: "https://doi.org/10.1080/17517575.2021.1878283"
+    display: "Enterprise Information Systems (2022)"
+  highlight: 0
+
+- title: "FastFlow: AI for Fast Urban Wind Velocity Prediction"
+  image: "dummy.png"
+  description: ""
+  authors: "Low, S.J. and Raghavan, V.S.G. and Gopalan, H. and Wong, J.C. and Yeoh, J. and Ooi, C.C."
+  link:
+    url: "https://doi.org/10.1109/ICDMW58026.2022.00028"
+    display: "IEEE International Conference on Data Mining Workshops, ICDMW (2022)"
+  highlight: 0
+
+- title: "FastFlow: AI for Fast Urban Wind Velocity Prediction"
+  image: "dummy.png"
+  description: ""
+  authors: "Low, S.J. and Raghavan, V.S.G. and Gopalan, H. and Wong, J.C. and Yeoh, J. and Ooi, C.C."
+  link:
+    url: "https://doi.org/10.48550/arXiv.2211.12035"
+    display: "arXiv (2022)"
+  highlight: 0
+
+- title: "Semantic localization on BIM-generated maps using a 3D LiDAR sensor"
+  image: "dummy.png"
+  description: ""
+  authors: "Yin, H. and Lin, Z. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.48550/arXiv.2205.00816"
+    display: "arXiv (2022)"
+  highlight: 0
+
+- title: "The Effects of UAV-Captured Image Degradation Issues on the Quality of 3D Reconstruction"
+  image: "dummy.png"
+  description: ""
+  authors: "Dhakshna Morthy, B. and Liu, Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/9780784483961.093"
+    display: "Construction Research Congress 2022: Computer Applications, Automation, and Data Analytics - Selected Papers from Construction Research Congress 2022 (2022)"
+  highlight: 0
+
+- title: "Towards BIM-based robot localization: A real-world case study"
+  image: "dummy.png"
+  description: ""
+  authors: "Yin, H. and Liew, J.M. and Lee, W.L. and Ang, M.H. and Yeoh, J.K.W."
+  link:
+    url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-85137092341&partnerID=MN8TOARS"
+    display: "Proceedings of the International Symposium on Automation and Robotics in Construction (2022)"
+  highlight: 0
+
+- title: "Visibility classification and influencing-factors analysis of airport: A deep learning approach"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Z. and Chen, Y. and Gu, X. and Yeoh, J.K.W. and Zhang, Q."
+  link:
+    url: "https://doi.org/10.1016/j.atmosenv.2022.119085"
+    display: "Atmospheric Environment (2022)"
+  highlight: 0
+
+- title: "Automated crack pattern recognition from images for condition assessment of concrete structures"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.autcon.2021.103765"
+    display: "Automation in Construction (2021)"
+  highlight: 0
+
+- title: "Framework for automated UAV-based inspection of external building fa\u00e7ades"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Y. and Lin, Y. and Yeoh, J.K.W. and Chua, D.K.H. and Wong, L.W.C. and Ang, M.H. and Lee, W.L. and Chew, M.Y.L."
+  link:
+    url: "https://doi.org/10.1007/978-981-15-8670-5_7"
+    display: "Advances in 21st Century Human Settlements (2021)"
+  highlight: 0
+
+- title: "Knowledge Loss Measurement through Quality Evaluation of Conceptual Graphs"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhou, Y. and Solihin, W. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/9780784483893.063"
+    display: "Computing in Civil Engineering 2021 - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2021 (2021)"
+  highlight: 0
+
+- title: "Robust pixel-wise concrete crack segmentation and properties retrieval using image patches"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Y. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.autcon.2020.103535"
+    display: "Automation in Construction (2021)"
+  highlight: 0
+
+- title: "An Information Quality Assessment Framework for Developing Building Information Models"
+  image: "dummy.png"
+  description: ""
+  authors: "Chen, L.J. and Yeoh, J.K.W."
+  link:
+    url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-85109400740&partnerID=MN8TOARS"
+    display: "Proceedings of the 37th International Symposium on Automation and Robotics in Construction, ISARC 2020: From Demonstration to Practical Use - To New Stage of Construction Robot (2020)"
+  highlight: 0
+
+- title: "Deep Learning-Based Enhancement of Motion Blurred UAV Concrete Crack Images"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Y. and Yeoh, J.K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1061/(ASCE)CP.1943-5487.0000907"
+    display: "Journal of Computing in Civil Engineering (2020)"
+  highlight: 0
+
+- title: "Extracting Construction Knowledge from Project Schedules Using Natural Language Processing"
+  image: "dummy.png"
+  description: ""
+  authors: "Zhao, X. and Yeoh, K.-W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1007/978-981-15-1910-9_17"
+    display: "Lecture Notes in Mechanical Engineering (2020)"
+  highlight: 0
+
+- title: "Vision-Based Semi-Supervised Learning Method for Concrete Crack Detection"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Y. and Yeoh, J.K.W."
+  link:
+    url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-85096772417&partnerID=MN8TOARS"
+    display: "Construction Research Congress 2020: Computer Applications - Selected Papers from the Construction Research Congress 2020 (2020)"
+  highlight: 0
+
+- title: "Ontology-Based Framework for Checking the Constructability of Concrete Volumetric Construction Submodules from BIM"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, J.K.W. and Jiao, R."
+  link:
+    url: "https://doi.org/10.1061/9780784482421.036"
+    display: "Computing in Civil Engineering 2019: Visualization, Information Modeling, and Simulation - Selected Papers from the ASCE International Conference on Computing in Civil Engineering 2019 (2019)"
+  highlight: 0
+
+- title: "BIM for Existing Buildings: Potential Opportunities and Barriers"
+  image: "dummy.png"
+  description: ""
+  authors: "Hossain, M.A. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1088/1757-899X/371/1/012051"
+    display: "IOP Conference Series: Materials Science and Engineering (2018)"
+  highlight: 0
+
+- title: "Development of a BIM-Based Framework to Support the Analysis of \"design-for-Disassembly\" Strategies"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, J.K.W. and Lee, S.L. and Ong, K.C.G."
+  link:
+    url: "https://doi.org/10.1061/9780784481301.075"
+    display: "Construction Research Congress 2018: Sustainable Design and Construction and Education - Selected Papers from the Construction Research Congress 2018 (2018)"
+  highlight: 0
+
+- title: "Construction Method Models Using Context Aware Construction Requirements for Automated Schedule Generation"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, Justin K. W. and Nguyen, T. Q. and Abbott, Ernest L. S."
+  link:
+    url: ""
+    display: "Computing in Civil Engineering 2017 (2017)"
+  highlight: 0
+
+- title: "Optimizing Crane Selection and Location for Multistage Construction Using a Four-Dimensional Set Cover Approach"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, Justin K. W. and Chua, David K. H."
+  link:
+    url: ""
+    display: "Journal of Construction Engineering and Management (2017)"
+  highlight: 0
+
+- title: "Optimizing Crane Selection and Location for Multistage Construction Using a Four-Dimensional Set Cover Approach"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, J.K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1061/(ASCE)CO.1943-7862.0001318"
+    display: "Journal of Construction Engineering and Management (2017)"
+  highlight: 0
+
+- title: "Integrating crane information models in BIM for checking the compliance of lifting plan requirements"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, J.K.W. and Wong, J.H. and Peng, L."
+  link:
+    url: "https://doi.org/10.22260/isarc2016/0116"
+    display: "ISARC 2016 - 33rd International Symposium on Automation and Robotics in Construction (2016)"
+  highlight: 0
+
+- title: "Understanding the science of virtual design and construction: What it takes to go beyond building information modeling"
+  image: "dummy.png"
+  description: ""
+  authors: "Chua, D.K.H. and Yeoh, J.K.W."
+  link:
+    url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-84936858103&partnerID=MN8TOARS"
+    display: "Congress on Computing in Civil Engineering, Proceedings (2015)"
+  highlight: 0
+
+- title: "Representing requirements of construction from an IFC model"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1061/9780784413616.042"
+    display: "Computing in Civil and Building Engineering - Proceedings of the 2014 International Conference on Computing in Civil and Building Engineering (2014)"
+  highlight: 0
+
+- title: "Automated construction sequencing and scheduling from functional requirements"
+  image: "dummy.png"
+  description: ""
+  authors: "Chua, D.K.H. and Nguyen, T.Q. and Yeoh, K.W."
+  link:
+    url: "https://doi.org/10.1016/j.autcon.2013.03.002"
+    display: "Automation in Construction (2013)"
+  highlight: 0
+
+- title: "Aggregate production planning for shipbuilding with variation-inventory trade-offs"
+  image: "dummy.png"
+  description: ""
+  authors: "Liu, Z. and Chua, D.K.H. and Yeoh, K.-W."
+  link:
+    url: "https://doi.org/10.1080/00207543.2010.527388"
+    display: "International Journal of Production Research (2011)"
+  highlight: 0
+
+- title: "PDM++: Planning framework from a construction requirements perspective"
+  image: "dummy.png"
+  description: ""
+  authors: "Chua, D.K.H. and Yeoh, K.W."
+  link:
+    url: "https://doi.org/10.1061/(ASCE)CO.1943-7862.0000292"
+    display: "Journal of Construction Engineering and Management (2011)"
+  highlight: 0
+
+- title: "Quantification of spatial temporal congestion in four-dimensional computer-aided design"
+  image: "dummy.png"
+  description: ""
+  authors: "Chua, D.K.H. and Yeoh, K.W. and Song, Y."
+  link:
+    url: "https://doi.org/10.1061/(ASCE)CO.1943-7862.0000166"
+    display: "Journal of Construction Engineering and Management (2010)"
+  highlight: 0
+
+- title: "A framework for construction requirements based planning utilizing constraints logic programming"
+  image: "dummy.png"
+  description: ""
+  authors: "Chua, D.K.H. and Yeoh, K.W."
+  link:
+    url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-84856635793&partnerID=MN8TOARS"
+    display: "Proceedings of IGLC17: 17th Annual Conference of the International Group for Lean Construction (2009)"
+  highlight: 0
+
+- title: "Modelling the spatial temporal utilization of Construction Space Requirements using 4D CAD"
+  image: "dummy.png"
+  description: ""
+  authors: "Chua, D.K.H. and Yeoh, K.W. and Song, Y."
+  link:
+    url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-80053412156&partnerID=MN8TOARS"
+    display: "Proceedings of the 11th International Conference on Civil, Structural and Environmental Engineering Computing, Civil-Comp 2007 (2007)"
+  highlight: 0
+
+- title: "Integrating Crane Information Models in BIM for Checking the Compliance of Lifting Plan Requirements"
+  image: "dummy.png"
+  description: ""
+  authors: "Yeoh, Justin K. W. and Wong, J. H. and Peng, L."
+  link:
+    url: ""
+    display: "link"
+  highlight: 0
