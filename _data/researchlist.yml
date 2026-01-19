@@ -1,0 +1,53 @@
+- title: "Automated engineering analysis of crack mechanisms on building fa\u00e7ades using UAVs"
+  image: "builtenv1.jpg"
+  category: "built_environment"
+  description: "This paper presents a UAV-enabled, vision-based framework to assess façade crack mechanisms in the built environment. By extracting crack features and contextual information, it supports engineering interpretation beyond detection. A rule-based reasoning method distinguishes structural from non-structural cracks. Real-world tests on two high-rise buildings achieved over 80% precision and recall, enabling safer, faster, and more reliable façade inspection and maintenance decisions."
+  authors: "Liu, Y. and Chua, D.K.H. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.jobe.2025.112176"
+    display: "Journal of Building Engineering (2025)"
+
+- title: "Large scale indoor occupant tracking using distributed acoustic sensing and machine learning"
+  image: "builtenv2.jpg"
+  category: "built_environment"
+  description: "This study advances built-environment occupancy monitoring by introducing Distributed Acoustic Sensing (DAS) as a scalable alternative to labor-intensive geophone deployment. A machine-learning method leveraging temporal dependency and spatial continuity enables accurate footstep recognition and trajectory tracking. Benchmark tests show high accuracy for both sensors, while DAS offers flexible resolution and rapid large-scale deployment for crowd-risk management."
+  authors: "Zhou, Y. and Yeoh, J.K.W. and Li, Y.E. and Solihin, W."
+  link:
+    url: "https://doi.org/10.1016/j.buildenv.2023.111005"
+    display: "Building and Environment (2024)"
+
+- title: "Audio-Based Excavator Preoperational Checks Using Few-Shot Deep Learning"
+  image: "automation1.jpg"
+  category: "automation"
+  description: "This paper advances automation in construction equipment maintenance by replacing subjective human listening checks with an automated, noncontact audio-based fault detection framework. Using few-shot learning and a Siamese neural network with transfer learning, it identifies multiple excavator fault types from noisy raw audio under limited data. Experiments achieved 88% accuracy, demonstrating robust field-ready automation."
+  authors: "Zhou, Y. and Liang, H. and Foo, Z.L. and Koh, Y.Z. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1061/JCEMD4.COENG-17031"
+    display: "Journal of Construction Engineering and Management (2026)"
+
+- title: "Semantic localization on BIM-generated maps using a 3D LiDAR sensor"
+  image: "automation2.jpg"
+  category: "automation"
+  description: "This paper advances automation in AEC robotics by enabling mapping-free localization using existing BIM models. BIM elements are converted into semantically enriched point-cloud maps, and a coarse-to-fine semantic ICP alignment localizes a mobile 3D LiDAR with only one sensor. Experiments show reliable pose tracking and reduced errors, lowering labor and computation for autonomous navigation."
+  authors: "Yin, H. and Lin, Z. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.autcon.2022.104641"
+    display: "Automation in Construction (2023)"
+
+- title: "Fine-tuning a large language model for automated code compliance of building regulations"
+  image: "digi1.jpg"
+  category: "digitalization"
+  description: "BuildThemis advances digitalization in AEC by automating the conversion of textual building regulations into computer-processable compliance-checking scripts. It combines a fine-tuned large language model with Retrieval-Augmented Generation to produce structured draft code grounded in an external knowledge base. This improves script quality, generalization, and reuse, accelerating rule digital transformation."
+  authors: "Shi, J.W.L. and Solihin, W. and Yeoh, J.K.W."
+  link:
+    url: "https://doi.org/10.1016/j.aei.2025.103676"
+    display: "Advanced Engineering Informatics (2025)"
+
+- title: "Material augmented semantic segmentation of point clouds for building elements"
+  image: "digi2.jpg"
+  category: "digitalization"
+  description: "This study advances digitalization of the built environment by improving point-cloud understanding for Scan-to-BIM workflows. It fuses 2D image-derived material properties with 3D geometry to enhance deep-learning segmentation of building elements. Tests on indoor data show major gains for texture-distinct objects, boosting recognition (e.g., boards +70.87%, doors +41.06%) and reducing manual interpretation time."
+  authors: "Liang, H. and Yeoh, J.K.W. and Chua, D.K.H."
+  link:
+    url: "https://doi.org/10.1111/mice.13198"
+    display: "Computer-Aided Civil and Infrastructure Engineering (2024)"

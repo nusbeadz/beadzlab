@@ -1,0 +1,32 @@
+- name: Dr. Liu Yiqing
+  photo: liu_yiqing.jpg
+  duration: 2017 - 2021
+  info: Computer Vision (CV); Deep Learning; Drone Inspection; Crack Detection
+  email: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Dr. Zhou Yuhan
+  photo: zhou_yuhan.jpg
+  info: Human-Building Interaction; Smart Sensing; Building Information Modeling (BIM); Automated Code Compliance Checking (ACCC)
+  duration: 2019 - 2023
+  email:
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4:
+
+- name: Dr. Liang Houhao
+  photo: liang_houhao.jpg
+  info: Multimodal Analysis of Human–Built Environment Interaction; Automation and Robotics in Digital Infrastructure
+  duration: 2019 - 2024
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 

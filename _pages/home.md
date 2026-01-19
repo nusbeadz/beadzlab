@@ -1,18 +1,16 @@
 ---
-title: "Allan Lab - Home"
+title: "Beadz Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Beadz Lab at National University of Singapore (NUS)."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**Beadz is a robotics research group focusing on Built Environment, Automation, and Digitalization.**
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+We are part of the Department of [Civil and Environmental Engineering Department](https://cde.nus.edu.sg/cee/) @ [National University of Singapore](https://nus.edu.sg/).
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+Our lab focuses on advancing automation and digitalization in the built environment, bridging cutting-edge research in Construction 4.0 with real-world engineering practice. We develop intelligent systems that integrate machine learning, multi-modal sensing, and data-driven analytics to enhance the safety, productivity, and reliability of construction and infrastructure operations. By leveraging interdisciplinary approaches across civil engineering, robotics-inspired automation, and digital technologies, our work aims to enable smarter decision-making, more efficient workflows, and more resilient built environments. Through close collaboration with industry and academia, we translate research innovations into practical solutions for modern construction and asset management.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -22,30 +20,25 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/welcome_to_beadz.jpeg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/boston_dynamic.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/slam_tool.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/robotic_arm.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/35th_kkhtcnn.jpeg" alt="Slide 5" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -58,18 +51,12 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
-
-
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bca-logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hopetechnik-logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/beex_logo.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/arc-logo.jpg" style="width: 200px">
 </figure>
+
+
+We are currently collaborating with renowned and highly capable organizations, including **Building and Construction Authority (BCA), HOPE Technik, BeeX, and NUS Advanced Robotic Center (ARC)**. These collaborations give us strong confidence in further advancing robotics and its applications in the construction industry.
