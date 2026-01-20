@@ -17,11 +17,12 @@
   number_educ: 0
   education1: 
 
-- name: Jack Shi Wei Lun
+- name: Jack Wei Lun Shi
   role: PhD Student
   photo: jack_wei_lun_shi.jpg
   info: Artificial Intelligence (AI); Large Language Model (LLM); Automated Code Compliance Checking (ACCC)
-  email: 
+  website: jackswl@u.nus.edu
+  email: https://jackswl.github.io/
   number_educ: 0
   education1: 
   education2: 

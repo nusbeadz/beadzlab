@@ -101,7 +101,7 @@ permalink: /team/
   {% else %}
   <h4>{{ member.name }}</h4>
   {% endif %}
-  <i>{{ member.duration }} <br> Research Interests: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -138,7 +138,7 @@ permalink: /team/
   {% else %}
   <h4>{{ member.name }}</h4>
   {% endif %}
-  <i>{{ member.duration }} <br> Research Interests: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -158,8 +158,6 @@ permalink: /team/
 {% endif %}
 
 ## Master
-<div class="row">
-
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_master %}
 
@@ -176,8 +174,7 @@ permalink: /team/
   {% else %}
   <h4>{{ member.name }}</h4>
   {% endif %}
-  <i>{{ member.duration }} <br> 
-  <b>{{ member.info }}
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -196,16 +193,52 @@ permalink: /team/
 </div>
 {% endif %}
 
-<div class="col-sm-4 clearfix">
+## Research Engineer
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_re %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.website %}
+  <h4><a href="{{ member.website }}" target="_blank">{{ member.name }}</a></h4>
+  {% else %}
+  <h4>{{ member.name }}</h4>
+  {% endif %}
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<div class="row">
+<div class="col-sm-6 clearfix">
 <h4>Exchange PhD Students</h4>
 {% for member in site.data.alumni_exchange %}
 {{ member.name }}
 {% endfor %}
 </div>
+</div>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/group_photo.jpg" width="95%">
 </figure>
-
-</div>
 

@@ -20,7 +20,7 @@
   education3: 
   education4:
 
-- name: Runxing (Amanda) Jiao
+- name: Runxing Jiao
   photo: runxing_jiao.jpg
   info: 
   duration: 2021 - 2023
@@ -32,7 +32,7 @@
   education4: 
 
 - name: Wilfred Lin
-  photo: Wilfred_lin.jpg
+  photo: wilfred_lin.jpg
   info: 
   duration: 2022 - 2023
   email: 
@@ -42,7 +42,8 @@
 
 - name: Khiong Kiat Chua
   photo: khiong_kiat_chua.jpg
-  info: 
+  website: https://darellchua2.github.io/
+  info: Founder of BETEKK Pte Ltd & Software Developer
   duration: 2021 - 2025
   email: 
   number_educ: 0
