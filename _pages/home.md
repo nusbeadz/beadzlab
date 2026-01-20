@@ -54,6 +54,7 @@ Our lab focuses on advancing automation and digitalization in the built environm
   </a>
 </div>
 
+We are currently collaborating with renowned and highly capable organizations, including **Building and Construction Authority (BCA), HOPE Technik, BeeX, and NUS Advanced Robotic Center (ARC)**. These collaborations give us strong confidence in further advancing robotics and its applications in the construction industry.
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bca-logo.png" style="width: 120px">
@@ -62,5 +63,8 @@ Our lab focuses on advancing automation and digitalization in the built environm
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/arc-logo.jpg" style="width: 200px">
 </figure>
 
+Born out of the cutting-edge research at Beadz, <a href="https://www.betekk.com/">BETEKK</a> is a tech-driven spin-off startup dedicated to revolutionizing construction inspection. This innovation is translating our laboratory's academic excellence into real-world industrial impact.
 
-We are currently collaborating with renowned and highly capable organizations, including **Building and Construction Authority (BCA), HOPE Technik, BeeX, and NUS Advanced Robotic Center (ARC)**. These collaborations give us strong confidence in further advancing robotics and its applications in the construction industry.
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/betekk_logo.png" style="width: 120px">
+</figure>
