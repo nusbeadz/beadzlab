@@ -10,7 +10,60 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## Staff
+<!-- ## Principal Investigator -->
+{% for member in site.data.pi %}
+<div class="pi-row" markdown="0">
+  <div class="pi-photo">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" />
+  </div>
+  <div class="pi-info">
+    {% if member.website %}
+    <h4><a href="{{ member.website }}" target="_blank">{{ member.name }}</a></h4>
+    {% else %}
+    <h4>{{ member.name }}</h4>
+    {% endif %}
+    <b>{{ member.role }} </b> <br>
+    <i>{{ member.title1 }} <br> {{ member.title2 }} <br> {{ member.title3 }} <br> </i>
+    {% if member.email %}
+    email: <a href="mailto:{{ member.email }}">{{ member.email }}</a><br><br> 
+    {% endif %}
+
+  {% if member.number_educ == 1 %}
+  <div> {{ member.education1 | markdownify }} </div>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <div> {{ member.education1 | markdownify }} </div>
+  <div> {{ member.education2 | markdownify }} </div>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <div> {{ member.education1 | markdownify }} </div>
+  <div> {{ member.education2 | markdownify }} </div>
+  <div> {{ member.education3 | markdownify }} </div>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <div> {{ member.education1 | markdownify }} </div>
+  <div> {{ member.education2 | markdownify }} </div>
+  <div> {{ member.education3 | markdownify }} </div>
+  <div> {{ member.education4 | markdownify }} </div>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <div> {{ member.education1 | markdownify }} </div>
+  <div> {{ member.education2 | markdownify }} </div>
+  <div> {{ member.education3 | markdownify }} </div>
+  <div> {{ member.education4 | markdownify }} </div>
+  <div> {{ member.education5 | markdownify }} </div>
+  {% endif %}
+
+  </div>
+</div>
+{% endfor %}
+
+
+## Current Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -241,4 +294,3 @@ permalink: /team/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/group_photo.jpg" width="95%">
 </figure>
-
