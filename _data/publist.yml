@@ -100,10 +100,10 @@
 - title: "Automated filtering of fa\u00e7ade defect images using a similarity method for enhanced inspection documentation"
   image: "dummy.png"
   description: ""
-  authors: "Liang, H. and Weng, Y. and Tang, S.W.Y. and Yeoh, J.K.W."
+  authors: "Houhao Liang and Yufeng Weng and Sherrich W. Y. Tang and Justin K. W. Yeoh"
   link:
     url: "https://doi.org/10.1080/09613218.2023.2282567"
-    display: "Building Research and Information (2024)"
+    display: "Building Research & Information (2024)"
   highlight: 0
 
 - title: "Automatic geometric quality assessment of railings for code compliance with LiDAR data"
@@ -226,7 +226,7 @@
 - title: "Facilitating Knowledge Transfer during Code Compliance Checking Using Conceptual Graphs"
   image: "dummy.png"
   description: ""
-  authors: "Zhou, Y. and Solihin, W. and Yeoh, J.K.W."
+  authors: "Yuhan Zhou and Wawan Solihin and Justin K. W. Yeoh"
   link:
     url: "https://doi.org/10.1061/JCCEE5.CPENG-4884"
     display: "Journal of Computing in Civil Engineering (2023)"
@@ -244,7 +244,7 @@
 - title: "Predicting Percent Plan Complete through Time Series Analysis"
   image: "dummy.png"
   description: ""
-  authors: "Nguyen, T.Q. and Yeoh, J.K.-W. and Angelia, N."
+  authors: "Thi Qui Nguyen and Justin Ker-Wei Yeoh and Natasha Angelia"
   link:
     url: "https://doi.org/10.1061/JCEMD4.COENG-12867"
     display: "Journal of Construction Engineering and Management (2023)"
@@ -376,10 +376,10 @@
     display: "Proceedings of the 37th International Symposium on Automation and Robotics in Construction, ISARC 2020: From Demonstration to Practical Use - To New Stage of Construction Robot (2020)"
   highlight: 0
 
-- title: "Deep Learning-Based Enhancement of Motion Blurred UAV Concrete Crack Images"
+- title: "Deep Learning\u2013Based Enhancement of Motion Blurred UAV Concrete Crack Images"
   image: "dummy.png"
   description: ""
-  authors: "Liu, Y. and Yeoh, J.K.W. and Chua, D.K.H."
+  authors: "Yiqing Liu and Justin K. W. Yeoh and David K. H. Chua"
   link:
     url: "https://doi.org/10.1061/(ASCE)CP.1943-5487.0000907"
     display: "Journal of Computing in Civil Engineering (2020)"
